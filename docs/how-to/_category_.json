@@ -1,0 +1,9 @@
+{
+  "label": "进阶教程",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/how-to",
+    "description": "一些进阶的功能引导教程"
+  }
+}

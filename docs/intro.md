@@ -3,46 +3,22 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Eidos Wiki
 
-Let's discover **Docusaurus in less than 5 minutes**.
+这里是 Eidos Wiki，你可以从这了解到 Eidos 的使用和开发相关的信息。Eidos 是一个本地优先的 Web App ，拥有和 Notion 类似的文档和表格，你可以理解为离线版的 Notion。
 
-## Getting Started
+## [入门使用](/category/getting-started)
 
-Get started by **creating a new site**.
+如果你有 Notion 的使用经历，Eidos 对你来说并不陌生。介绍一些基础功能的使用
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## [进阶使用](/category/how-to)
 
-### What you'll need
+非基础功能的使用教程
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## [开发者](/category/tech)
 
-## Generate a new site
+如果你是一个开发者，这部分内容可以帮助你了解 Eidos 设计实现的一些技术性文档。
 
-Generate a new Docusaurus site using the **classic template**.
+## [愿景](/category/vision)
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+帮助你更加深入的了解 Eidos 背后的理念，以此来判断 Eidos 是否符合你的需求和预期。
