@@ -7,6 +7,12 @@ slug: /
 
 这里是 Eidos Wiki，你可以从这了解到 Eidos 的使用和开发相关的信息。Eidos 是一个本地优先的 Web App ，拥有和 Notion 类似的文档和表格，你可以理解为离线版的 Notion。
 
+:::tip
+
+[Eidos](https://eidos.space) 正在开发中，目前只在小范围测试。你可以加入 [Discord](https://discord.gg/KAeDX8VEpK) 获取测试码后方可使用。
+
+:::
+
 ## [入门使用](/category/getting-started)
 
 如果你有 Notion 的使用经历，Eidos 对你来说并不陌生。介绍一些基础功能的使用
