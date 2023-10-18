@@ -5,7 +5,9 @@ slug: /
 
 # Eidos Wiki
 
-这里是 Eidos Wiki，你可以从这了解到 Eidos 的使用和开发相关的信息。Eidos 是一个本地优先的 Web App ，拥有和 Notion 类似的文档和表格，你可以理解为离线版的 Notion。
+这里是 Eidos Wiki，你可以从这了解到 Eidos 的使用和开发相关的信息。Eidos 是一个开源的、本地优先的 Web App ，拥有和 Notion 类似的文档和表格，你可以理解为离线版的 Notion，所有数据都在本地。在 AI 的加持下，你可以很方便地和自己的数据对话，拥有一个 AI-powered 的第二大脑。
+
+Eidos 被设计为 all-in-one 的工具，将所有数据放在一起，以更好地支持数据[连接](/vision/link)，发挥其价值。并且始终保证[原始数据](/vision/raw-data-now)对用户开放，不会像 SaaS 一样挟持用户数据。
 
 :::tip
 
