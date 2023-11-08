@@ -51,6 +51,17 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@dipakparmar/docusaurus-plugin-umami",
+      /** @type {import('@dipakparmar/docusaurus-plugin-umami').Options} */
+      ({
+        websiteID: "e76abc2e-32f3-4f21-be2c-2eb8ab17b734", // Required
+        analyticsDomain: "analytics.eu.umami.is", // Required
+        dataDomains: "wiki.eidos.space", // comma separated list of domains, *Recommended*
+      }),
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
