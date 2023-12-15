@@ -10,7 +10,7 @@ sidebar_position: 3
 
 互联网的精髓在于[链接](/vision/link)，其中的服务往往是以某种 UI 的形式提供给你，数据库里面的原始数据经过了一层转化再提供给使用者。移动互联网兴起时，各大巨头都在圈地造墙，这使得互联网上的信息很难关联起来。在这种背景下，万维网的发明者，李爵士喊出了这样的口号 —— **Raw Data Now!**
 
-https://www.youtube.com/watch?v=OM6XIICm_qo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OM6XIICm_qo?si=coppkoS1UMn0h_i6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 李爵士的观点是那种我为人人、人人为我的思想。我们每个人都共享自己数据，然后这些数据通过互联网连接，大家可以检索到自己想要的信息。这是一个互惠互利的过程。
 
