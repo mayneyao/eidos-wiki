@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Eidos 一词出自古希腊语 εἶδος（eîdos），即理型。
 
-![洞穴理论](img/allegory_of_the_cave.png)
+![洞穴理论](img/allegory_of_the_cave.webp)
 
 ## 现实世界是理型世界的投影
 
@@ -16,7 +16,7 @@ Eidos 一词出自古希腊语 εἶδος（eîdos），即理型。
 
 模板+材料=产品，在现代工厂中是十分常见的生产模式。3D 打印更是将这种模式推向了极致。造房子的图纸，造汽车、飞机的蓝图，都是模板。模板是一种抽象，对物质的抽象，不依附于任何材料，它是一种纯粹的思维。它可以存在于人脑中，可以存在于纸张上，也可以存在于按照某种格式编码的二进制数据中。
 
-![Barnsley_fern](img/barnsley_fern.png)
+![Barnsley_fern](img/barnsley_fern.webp)
 [巴恩斯利蕨](https://en.wikipedia.org/wiki/Barnsley_fern) 是一个分形，它的生成算法是这样的：
 
 ```python
