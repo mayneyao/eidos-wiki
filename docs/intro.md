@@ -5,9 +5,14 @@ slug: /
 
 # Eidos Wiki
 
-这里是 Eidos Wiki，你可以从这了解到 Eidos 的使用和开发相关的信息。Eidos 是一个开源的、本地优先的 Web App ，完全运行在浏览器中，无需安装，也不依赖于任何服务器。拥有和 Notion 类似的文档和表格，你可以理解为离线版的 Notion，所有数据都在本地。在 AI 的加持下，你可以很方便地和自己的数据对话。
+这里是 Eidos Wiki，你可以从这了解到 Eidos 的使用和开发相关的信息。Eidos 是一个开源的、[本地优先](https://www.inkandswitch.com/local-first/)的 Web App ，完全运行在浏览器中，无需安装，也不依赖于任何服务器。拥有和 Notion 类似的文档和表格，你可以理解为离线版的 Notion，所有数据都在本地。在 AI 的加持下，你可以很方便地和自己的数据对话。
 
-Eidos 被设计为 all-in-one 的工具，将所有数据放在一起，以更好地支持数据[连接](/vision/link)，发挥其价值。并且始终保证[原始数据](/vision/raw-data-now)对用户开放。
+Eidos 被设计为 all-in-one 的工具，将所有数据放在一起，以更好地支持数据[连接](/vision/link)，发挥其价值。并且始终保证[原始数据](/vision/raw-data-now)对用户开放。但 Eidos 并不是"瑞士军刀"式的工具，它并不是一个功能丰富的产品，而是一个基础设施，Eidos 会提供"恰好够用"的文档和表格体验，使用者可以通过扩展来支持更多的功能。Eidos 的设计和实现遵循如下原则：
+
+- 本地优先
+- 扩展优先
+- Web 优先
+- 开源和开放
 
 :::tip
 

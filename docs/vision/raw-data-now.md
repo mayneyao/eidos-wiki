@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Raw Data Now!
+# Raw Data Now!(Draft)
 
 我喜欢 Notion 的一大部分原因是我可以轻松接触到原始数据，因为是我分门别类的把数据整理到我希望它所在的格子里面。笔记工具领域有一种迷思，就是数据要遵循标准格式，纯文本最好，这群喜欢折腾的 geek 可以通过自己的编程能力做到任何想做的事情。Markdown 之于 Word，SQL 之于 Excel。Notion 的表格大概就是把数据库摆在了你面前，而不是隔了一层 UI 的难以解读的数据。
 
