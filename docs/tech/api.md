@@ -6,7 +6,18 @@ sidebar_position: 2
 
 In traditional services, the database is in the cloud, and the API is available 24/7. Eidos is a Web App, which does not inherently have the ability to provide an API. We handle API requests through a proxy service, which then forwards the requests to the Eidos Web Client, enabling data read and write.
 
-Eidos Web Client \<== websocket ==> Eidos API Agent \<== http ==> Any HTTP Client
+Any HTTP Client \<== http ==> Eidos API Agent \<== websocket ==> Eidos Web Client
+
+```mermaid
+sequenceDiagram
+    participant User
+    participant Api Agent
+    participant Eidos Client
+    User->>+Api Agent: Send request
+    Api Agent->>+Eidos Client: Forward request
+    Eidos Client->>-Api Agent: Process and respond
+    Api Agent->>-User: Return result
+```
 
 ## Open Source Implementation
 

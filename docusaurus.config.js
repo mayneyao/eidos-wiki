@@ -145,6 +145,10 @@ const config = {
         additionalLanguages: ["bash", "diff", "json"],
       },
     }),
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
 };
 
 module.exports = config;
