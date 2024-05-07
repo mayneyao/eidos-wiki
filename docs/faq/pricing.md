@@ -1,13 +1,19 @@
-# 收费模式
+# Pricing
 
-## 开源本体免费
+Eidos consistently adheres to the local-first philosophy, only charging for services that rely on the cloud. We aim to make our pricing model as simple and transparent as possible.
 
-Eidos 核心是构建在 web 上的, 这一部分始终免费并开源。
+Eidos assigns privileges to licenses, and users can activate these licenses to obtain corresponding privileges. There are three types of licenses: free, one-time purchase, and subscription.
 
-## Pro 版大版本买断
+We provide open-source implementations for some of our paid services, allowing users to deploy them independently.
 
-包含一些高级特性的 pro 版本, 会采用大版本买断的收费模式。
+**Free**
 
-## 扩展单独买断
+Eidos's core is built on the web, and this part will always be free and open-source.
 
-一些非核心功能会以扩展的形式提供，这些扩展如果不涉及到云服务费用，也可以是一次性买断的。
+**One-Time Purchase**
+
+Some advanced features are provided in the form of plugins or other formats. You can purchase these features for permanent use and access to the source code. This includes one year of code updates and technical support.
+
+**Subscription**
+
+Some services that rely on the cloud are provided in the form of subscriptions, such as the API service. We offer different subscription tiers to meet the needs of various users.

@@ -1,12 +1,12 @@
-# 数据存放在哪里
+# Where is the Data Stored?
 
-Eidos Web App 的数据存放在 OPFS 中。
+The data for the Eidos Web App is stored in OPFS.
 
-## 什么是 OPFS?
+## What is OPFS?
 
-- https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system
-- https://web.dev/articles/origin-private-file-system
+- [Origin Private File System - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
+- [Origin Private File System - web.dev](https://web.dev/articles/origin-private-file-system)
 
-## 如何查看数据?
+## How to View the Data?
 
-你可以通过 [OPFS Explorer](https://chrome.google.com/webstore/detail/opfs-explorer/acndjpgkpaclldomagafnognkcgjignd) 查看。
+You can view the data using the [OPFS Explorer](https://chrome.google.com/webstore/detail/opfs-explorer/acndjpgkpaclldomagafnognkcgjignd).
